@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011926523926",
+    "project_id": "andadora-exchange",
+    "storage_bucket": "andadora-exchange.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011926523926:android:e849a70494ca9144cad537",
+        "android_client_info": {
+          "package_name": "com.andadora.exchange"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVohEKf_jMoscY4cJpVWCw9V_f0aDsS9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
